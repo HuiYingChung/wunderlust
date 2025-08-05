@@ -369,7 +369,7 @@ main h4 {
 }
 input[type="radio"] {
     accent-color: var(--purple);
-    transform: scale(2);
+    transform: scale(1.5);
     margin: 2rem 1rem;
 }
 #nums fieldset label span {
