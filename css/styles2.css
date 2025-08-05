@@ -546,6 +546,7 @@ footer {
     }
     #intro h2 {
         grid-row: 1/2;
+        padding-top: 0;
     }
     #intro p {
         grid-row: 1/2;
