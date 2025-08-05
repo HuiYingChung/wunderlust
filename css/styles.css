@@ -198,15 +198,16 @@ nav li {
     border-bottom: 1px solid var(--black);
     padding: 0.5rem 2rem;
 }
-#menu-toggle {
+/* #menu-toggle {
     display: grid;
-}
+} */
 nav label {
     width: 40%;
     display: block;
     background-color: var(--yellow);
     padding: 0.5rem 2rem;
-    justify-self: end;
+    /* justify-self: end; */
+    margin-left: auto;
 }
 
 nav li:last-child {
