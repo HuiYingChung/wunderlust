@@ -317,8 +317,9 @@ main h4 {
     text-align: center;
     margin: 0 auto;
     grid-row-gap: 1rem;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
     word-break: break-all;
+    hyphens: auto;
 
 }
 #about img {
