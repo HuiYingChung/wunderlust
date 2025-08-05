@@ -391,10 +391,10 @@ fieldset {
     -moz-appearance: none;
     appearance: none;
 
-    background-image: url('data:image/svg+xml;charset=UTF-8,<svg fill="var(--purple)" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 7l4.5 4.5L14.5 7"/></svg>');
+    background-image: url('data:image/svg+xml;charset=UTF-8,<svg fill="black" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 7l4.5 4.5L14.5 7"/></svg>');
     background-repeat: no-repeat;
     background-position: right 1rem center;
-    background-size: 1rem;
+    background-size: 2rem;
     padding: 1rem 2.5rem 1rem 1rem;
 
     width: 100%;
