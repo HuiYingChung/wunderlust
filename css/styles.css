@@ -227,7 +227,7 @@ nav li a {
 /* Show menu when toggle is checked */
 #toggle:checked ~ ul {
     display: block;
-    grid-column: span all;
+    grid-column: 1/-1;
 }
 /* ---------Main content styles ----------*/
 article {
