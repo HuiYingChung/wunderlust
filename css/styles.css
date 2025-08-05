@@ -380,6 +380,7 @@ input[type="radio"] {
 }
 fieldset {
     margin-bottom: 1.5rem;
+    justify-items: center;
 }
 #selects {
     display: flex;
